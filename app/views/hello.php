@@ -5,6 +5,7 @@
     <title>Laravel PHP Framework</title>
     <style>
         @import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
+        @import url('css/global.css');
 
         body {
             margin:0;
