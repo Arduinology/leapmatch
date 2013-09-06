@@ -4,11 +4,12 @@
     <meta charset="UTF-8">
     <title>Laravel PHP Framework</title>    
     {{ HTML::style('css/global.css') }}
+    {{ HTML::style('//fonts.googleapis.com/css?family=Electrolize') }}
 
 </head>
 <body>
     <div class="welcome">
-        <h1>LeapMatch</h1>
+        <h1>LeapMatch</h1><span>development</span>
     </div>
 
     <div style=" width: 400px; height: 153px; margin: 0 auto; display:block">
